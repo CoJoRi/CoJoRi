@@ -1,3 +1,5 @@
+![alt text](files/intro.gif)
+
 - 👋 Hi, I’m @CoJoRi
 - 👀 I’m interested in coding of course
 - 🌱 I’m currently learning in 42 Perpignan
