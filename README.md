@@ -1,5 +1,10 @@
-<h3 align="center">Hi 👋! My name is CoJoRi and I'm a student in 42 Perpignan,France</h3>
 
+<div align="center">
+  <h3 align="center">Hi 👋! My name is CoJoRi and I'm a student in 42 Perpignan,France</h3>
+  <img height="680" src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/refs/heads/main/files/img1.jpg"  />
+</div>
+
+###
 ###
 
 <div align="center">
@@ -54,12 +59,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/output/snake.svg?sanitize=true" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="680" src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/refs/heads/main/files/img1.jpg"  />
-</div>
 
 ###
 
