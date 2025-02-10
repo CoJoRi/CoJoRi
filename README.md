@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoJoRi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoJoRi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoJoRi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoJoRi&theme=redical&hide_border=false&hide_title=false&area=true" height="" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -12,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="250" src="https://github.com/CoJoRi/CoJoRi/blob/main/files/pixel-art-512.gif"  />
 </div>
 
 ###
@@ -52,12 +53,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/output/snake.svg?sanitize=true" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/12Nl0j4bxSFeN1bBoodMN6ftV2ngdReTi/view?usp=drive_link"  />
+  <img height="680" src="https://raw.githubusercontent.com/CoJoRi/CoJoRi/refs/heads/main/files/img1.jpg"  />
 </div>
 
 ###
